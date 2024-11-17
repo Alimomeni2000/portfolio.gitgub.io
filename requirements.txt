@@ -1,0 +1,8 @@
+streamlit
+streamlit_lottie
+Pillow
+nbformat
+nbconvert
+nbconvert
+streamlit_jupyter
+streamlit-navigation-bar
